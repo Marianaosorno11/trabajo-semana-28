@@ -1,0 +1,90 @@
+ .titulo
+   {    
+    background-color: #BE9AAE;
+    font-size: 55px;
+    width: 750px;
+    height: 120px;
+    font-family: Courier New;
+   
+   }
+
+ .p
+   {   
+   top: 170px;   
+    left: 400px; 
+  position:absolute;
+    width:520px; 
+    height:135px;
+    background-image: url("p2.png");
+
+  }
+      .p:hover
+   {   
+   top: 175px;    
+   left: 320px; 
+    position:absolute;
+    width:720px; 
+    height:200px;
+    background-image: url("p.png");
+  
+}
+  .uno
+   {      
+     top: 385px;   
+     left: 100px;
+  position:absolute;
+    width:370px; 
+    height:145px;
+    background-image: url("128.png");
+
+  }
+      .uno:hover
+   {      
+     top: 385px;   
+     left: 100px;
+    position:absolute;
+    width:370px; 
+    height:515px;
+    background-image: url("129.png");
+  
+}
+.dos
+   {    
+top: 385px; 
+left: 500px;
+  position:absolute;
+    width:370px; 
+    height:145px;
+    background-image: url("132.png");
+
+  }
+      .dos:hover
+      {
+   top: 385px; 
+   left: 500px;
+    position:absolute;
+    width:370px; 
+     height:515px;
+    background-image: url("129.png");
+  
+}
+.tres
+   {   
+   top: 385px; 
+    left: 900px;
+  position:absolute;
+    width:370px; 
+    height:145px;
+    background-image: url("130.png");
+
+  }
+      .tres:hover
+   {      
+    top: 385px; 
+     left: 900px;
+    position:absolute;
+    width:370px; 
+    height:515px;
+    background-image: url("133.png");
+  
+}
